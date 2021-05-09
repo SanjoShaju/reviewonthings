@@ -12,15 +12,23 @@
 	<atom:link href="https://sanjoshaju.github.io/reviewonthings/tag/bitcoin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sanjoshaju.github.io/reviewonthings</link>
 	<description>by Sanjo</description>
-	<lastBuildDate>Sat, 08 May 2021 09:35:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 May 2021 19:28:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/cropped-ROT_Logo-32x32.png</url>
+	<title>bitcoin &#8211; Review on Things</title>
+	<link>https://sanjoshaju.github.io/reviewonthings</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>What is the future of NFTs(Non-Fungible Tokens) as a technology?</title>
+		<title>How are NFTs transforming Digital Art? #CryptoArt</title>
 		<link>https://sanjoshaju.github.io/reviewonthings/2021/05/08/what-is-the-future-of-nftsnon-fungible-tokens-as-a-technology/</link>
 					<comments>https://sanjoshaju.github.io/reviewonthings/2021/05/08/what-is-the-future-of-nftsnon-fungible-tokens-as-a-technology/#respond</comments>
 		
@@ -29,6 +37,7 @@
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[bitcoin]]></category>
 		<category><![CDATA[bloackchain]]></category>
+		<category><![CDATA[crptoart]]></category>
 		<category><![CDATA[crypto]]></category>
 		<category><![CDATA[digital art]]></category>
 		<category><![CDATA[nft]]></category>
@@ -37,13 +46,13 @@
 		<category><![CDATA[non fungible tokens]]></category>
 		<guid isPermaLink="false">https://sanjoshaju.github.io/reviewonthings/?p=13</guid>
 
-					<description><![CDATA[What are NFTs? To understand Non Fungible Tokens, we have to first understand Fungibility. If you can interchange a commodity with another identical item, that commodity becomes fungible. For example a 10 dollar bill is equivalent to 10 one-dollar bills. Thus an item becomes Non-Fungible when it becomes unique or hard to replace with an&#8230;]]></description>
+					<description><![CDATA[What are NFTs? To understand Non Fungible Tokens, we have to first understand Fungibility. If you can interchange a commodity with another identical item, that [...]]]></description>
 										<content:encoded><![CDATA[
-<p><strong>What are NFTs?</strong></p>
+<h4><strong>What are NFTs?</strong></h4>
 
 
 
-<div class="wp-block-image"><figure class="alignright size-large"><img loading="lazy" width="1024" height="994" src="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1024x994.png" alt="" class="wp-image-15" srcset="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1024x994.png 1024w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-300x291.png 300w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-768x746.png 768w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1080x1049.png 1080w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1.png 1313w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1024x994.png" alt="" class="wp-image-15" width="377" height="365" srcset="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1024x994.png 1024w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-300x291.png 300w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-768x746.png 768w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1-1080x1049.png 1080w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/1_rx8odLIf652b_4pm21MAtw-1.png 1313w" sizes="(max-width: 377px) 100vw, 377px" /></figure></div>
 
 
 
@@ -59,11 +68,11 @@
 
 
 
-<p><strong>How it works?</strong></p>
+<h4><strong>How it works?</strong></h4>
 
 
 
-<p>Have you heard of smart contracts? Smart contracts are digital contracts that enable credible transactions without any third-party involvement. These transactions can be tracked and are irreversible too. The contracts are stored on blockchain technology, a decentralized digital ledger used to record all transactions.</p>
+<p>Have you heard of smart contracts? Smart contracts are digital contracts that enable credible transactions without any third-party involvement. These transactions can be tracked and are irreversible too. These contracts are stored on blockchain technology, a decentralized digital ledger used to record all transactions.</p>
 
 
 
@@ -71,11 +80,15 @@
 
 
 
-<p><strong>What is its future?</strong></p>
+<h4><strong>What is its future?</strong></h4>
 
 
 
 <p>The headlines of a digital drawing of a simple cat getting sold for millions of dollars might have bought people to the limelight use case of selling art digitally. But that is just one form of its use case.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/Screenshot-2021-05-08-150023.png" alt="" class="wp-image-16" width="358" height="263" srcset="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/Screenshot-2021-05-08-150023.png 772w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/Screenshot-2021-05-08-150023-300x220.png 300w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/Screenshot-2021-05-08-150023-768x564.png 768w" sizes="(max-width: 358px) 100vw, 358px" /></figure></div>
 
 
 
@@ -91,23 +104,27 @@
 
 
 
-<p><strong>What is the downside?</strong></p>
+<h4><strong>What is the downside?</strong></h4>
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img loading="lazy" src="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1024x1024.jpg" alt="" class="wp-image-17" width="259" height="259" srcset="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1024x1024.jpg 1024w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-300x300.jpg 300w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-150x150.jpg 150w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-768x768.jpg 768w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1080x1080.jpg 1080w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516.jpg 1400w" sizes="(max-width: 259px) 100vw, 259px" /></figure></div>
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1024x1024.jpg" alt="" class="wp-image-17" width="351" height="351" srcset="https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1024x1024.jpg 1024w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-300x300.jpg 300w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-150x150.jpg 150w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-768x768.jpg 768w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516-1080x1080.jpg 1080w, https://sanjoshaju.github.io/reviewonthings/wp-content/uploads/2021/05/GettyImages_1230723516.jpg 1400w" sizes="(max-width: 351px) 100vw, 351px" /></figure></div>
 
 
 
-<p>Ecological factor. The backbone of NFTs that is the smart contract is the main culprit here. Smart contracts employ miners who have to provide computing power to solve those complex mathematical problems(Proof-of-Work (PoW)) which makes those smart contracts unique. But the energy these computers pull is on a high scale. To imagine this scale let&#8217;s take the example of the “Space Cat,” an NFT that’s basically a GIF of a cat in a rocket heading to the Moon. Space Cat’s carbon footprint is equivalent to an EU resident’s electricity usage for two months, according to the website <a href="https://cryptoart.wtf/">cryptoart.wtf.</a></p>
+<p>Ecological factor. The backbone of NFTs that is the smart contract is the main culprit here. Smart contracts employ miners who have to provide computing power to solve those complex mathematical problems(Proof-of-Work (PoW)) which makes those smart contracts unique. But the energy these computers pull is on a high scale. To imagine this scale let&#8217;s take the example of the “Space Cat,” an NFT that’s basically a GIF of a cat in a rocket heading to the Moon. Space Cat’s carbon footprint is equivalent to an EU resident’s electricity usage for two months. You can read more about such alarming figures at <a href="https://cryptoart.wtf/">cryptoart.wtf.</a></p>
 
 
 
-<p><strong>Ending thoughts!</strong></p>
+<p>This as such is not a problem that NFTs created, it is a problem that already existed with blockchain technology. Some NFT stores are claiming to equate the CO2 emissions by planting more trees. In theory, it sounds good but is not something that can easily be compensated like that. Only technology advancements in processor technology to create more energy-efficient ones can solve this issue on a large scale.</p>
 
 
 
-<p>This as such is not a problem that NFTs created, it is a problem that already existed with blockchain technology. Some NFT stores are claiming to equate the CO2 emissions by planting more trees. In theory, it sounds good but is not something that can easily be compensated like that. Only technology advancements in processor technology to create more energy-efficient ones can solve this issue.</p>
+<p>Do check out this article to learn more: <a href="https://github.com/memo/eco-nft">A guide to more sustainable CryptoArt</a></p>
+
+
+
+<h4><strong>Ending thoughts!</strong></h4>
 
 
 
@@ -115,7 +132,7 @@
 
 
 
-<p>Do share your views in the comments? More than happy it hear them.</p>
+<p>Do share your views in the comments? More than happy to hear them.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://sanjoshaju.github.io/reviewonthings/2021/05/08/what-is-the-future-of-nftsnon-fungible-tokens-as-a-technology/feed/</wfw:commentRss>
